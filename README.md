@@ -1,6 +1,6 @@
 # Matplotlib-Graphs
 
-In this project, you can find 10 different plot type listed below:
+In this project, you can find 10 different plot type coded in python listed below:
 
 
     1- 3D Plot
